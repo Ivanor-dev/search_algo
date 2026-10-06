@@ -1,0 +1,6 @@
+# Build (CMake)
+build/
+cmake-build-*/
+
+# Resultados dos experimentos
+resultados.csv
